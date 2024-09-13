@@ -1,6 +1,7 @@
 BLOCK_SITE:
 - https://bornforthis.cn/
-- https://koxiuqiu.cn//
+- https://koxiuqiu.cn/2024/9y12d1/
+- ^https?:\/\/(www\.)?bornforthis\.cn\/.*
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
@@ -18,7 +19,7 @@ GITHUB_FRIENDS_LINKS:
 HTTP_PROXY: false
 LINK:
 - link: https://huanxueblog.top/link/
-  theme: butterfly
+  theme: anzhiyu
 MAX_POSTS_NUM: 25
 OUTDATE_CLEAN: 10000
 SETTINGS_FRIENDS_LINKS:
