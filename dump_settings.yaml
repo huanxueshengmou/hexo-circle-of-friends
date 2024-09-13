@@ -18,7 +18,7 @@ GITHUB_FRIENDS_LINKS:
 HTTP_PROXY: false
 LINK:
 - link: https://huanxueblog.top/link/
-  theme: anzhiyu
+  theme: butterfly
 MAX_POSTS_NUM: 25
 OUTDATE_CLEAN: 10000
 SETTINGS_FRIENDS_LINKS:
