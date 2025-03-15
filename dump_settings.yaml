@@ -16,7 +16,7 @@ GITHUB_FRIENDS_LINKS:
   repo: ccknbc-actions
   state: open
   type: normal
-HTTP_PROXY: false
+HTTP_PROXY: true
 LINK:
 - link: https://huanxueblog.top/link/
   theme: anzhiyu
